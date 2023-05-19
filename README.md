@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chitrak Chakraborty</h1>
 <h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakalya100&label=Profile%20views&color=0e75b6&style=flat" alt="sakalya100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username= chitrak2000&label=Profile%20views&color=0e75b6&style=flat" alt="sakalya100" /> </p>
 
 <p align="left"> <a href="https://twitter.com/chitrak2016" target="blank"><img src="https://img.shields.io/twitter/follow/Chitrak?logo=twitter&style=for-the-badge" alt="chitraktweet" /></a> </p>
 
