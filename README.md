@@ -1,54 +1,60 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Chitrak Chakraborty</h1>
+<h3 align="center">Student at Vellore Institute of Technology, Bhopal🌟</h3>
 
-<!---
-Please consider starring the repo if you find this useful in any manner
-or use it. It helps me a lot.
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakalya100&label=Profile%20views&color=0e75b6&style=flat" alt="sakalya100" /> </p>
 
-<a href="https://www.rishit.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/header_image.png" width="900"></a>
- 
-<img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150'>
+<p align="left"> <a href="https://twitter.com/chitrak2016" target="blank"><img src="https://img.shields.io/twitter/follow/Chitrak?logo=twitter&style=for-the-badge" alt="chitraktweet" /></a> </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)](https://twitter.com/intent/follow?screen_name=rishit_dagli) 
-[![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?label=Follow&style=social)](https://github.com/Rishit-dagli) 
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
-[![Website](https://img.shields.io/badge/rishit.tech--green?style=social&logo=google%20chrome)](https://www.rishit.tech/) 
-[![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/11878567/rishit-dagli)
 
-> Note: This is not my real contribution graph :laughing:
+<p><img align="right" src="https://github.com/Sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" alt="Sakalya100" /></p>
 
-Hi, I'm [Rishit Dagli](https://www.rishit.tech) a high school student and an AI enthusiast from 
-[Mumbai, India](https://www.google.com/maps/place/Rishit+Dagli/@19.2115497,72.8411235,15z/data=!4m5!3m4!1s0x0:0xf3ed3bb225394f3c!8m2!3d19.2115497!4d72.8411235) :india:
 
-### My top 10 technologies
+- 🌱 I’m currently learning **Data Analytics in Depth** and **App Development**
 
-|![](https://img.shields.io/badge/-Python-black?logo=python&style=plastic)|![](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=plastic)|![](https://img.shields.io/badge/-GCP-black?logo=googlecloud&style=plastic)|![](https://img.shields.io/badge/-Azure-black?logo=microsoftazure&style=plastic)|![](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=plastic)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/-Android-black?logo=android&style=plastic)|![](https://img.shields.io/badge/-Javascript-black?logo=javascript&style=plastic)|![](https://img.shields.io/badge/-Node-black?logo=nodedotjs&style=plastic)|![](https://img.shields.io/badge/-C++-black?logo=cplusplus&style=plastic)|![](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=plastic)|
+- 👨‍💻 All of my projects are available at [https://github.com/chitrak2000](https://github.com/chitrak2000)
 
-### 📕 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Review of Domain Generalization using Causal Matching: Causal Learning Series Part 1](https://medium.com/@rishit.dagli/review-of-domain-generalization-using-causal-matching-causal-learning-series-part-1-d93fa3d35250?source=rss-e7d740ac1a25------2)
-- [How to Use GitHub Super Linter in Your Projects](https://medium.com/@rishit.dagli/how-to-use-github-super-linter-in-your-projects-25b35fade7fd?source=rss-e7d740ac1a25------2)
-- [Kubeflow Notebooks: ML Experimentation Made Easier — Part 2](https://medium.com/@rishit.dagli/kubeflow-notebooks-ml-experimentation-made-easier-part-2-117a45dec52c?source=rss-e7d740ac1a25------2)
-- [Kubeflow: Machine Learning on Kubernetes — Part 1](https://medium.com/@rishit.dagli/kubeflow-machine-learning-on-kubernetes-part-1-8f657115d0e9?source=rss-e7d740ac1a25------2)
-- [Skewness and Kurtosis — Positively Skewed and Negatively Skewed Distributions in Statistics…](https://medium.com/@rishit.dagli/skewness-and-kurtosis-positively-skewed-and-negatively-skewed-distributions-in-statistics-95515891439a?source=rss-e7d740ac1a25------2)
-<!-- BLOG-POST-LIST:END -->
+- 💬 Ask me about **Data Analytics and the world of DATA, CyberSecurity**
 
-<!--- 
-### Tech communities
+- 📫 How to reach me **chakraborty.chitrak2016@gmail.com**
 
-|Organizer|Organizer|Mentor|
-|---------|---------|------|
-|<a href="https://kotlinmumbai.tech"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/kotlin_mumbai.png" height="100px"></a>|<a href="https://community.mozilla.org/groups/mozilla-mumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/mozilla_mumbai.png" height="100px"></a>|<a href="https://www.meetup.com/tfugmumbai/"><img src="https://github.com/Rishit-dagli/Rishit-dagli/blob/master/communities/tfug_mumbai.png" height="100px"></a>|
--->
 
-[![Rishit's github stats](https://github-readme-stats.vercel.app/api?username=Rishit-dagli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/Rishit-dagli)
+<h3 align="left">Achievements:</h3>
 
-<!---
-If you like what I do and want me to build more such projects, maybe considering supporting me on PayPal or buying me a coffee :pleading_face:
+- OWASP VIT BHOPAL - VICE PRESIDENT
+- High Commendation Delegate VITB MUN 2021.
+- Exploring DSA
+- Quant and Aptitute enthusiast
+- Shortlisted for PWC Salesforce training program 2023
 
-<a href="http://paypal.me/alpadagli" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"></a> &nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/rishitdagli" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
--->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/chitrak2016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chitrak" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chitrakforwork/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sakalya-mitra" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/riochaks/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rayson21" height="30" width="40" /></a>
+<a href="https://discord.gg/8933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3722" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chitrak2000&show_icons=true&locale=en&layout=compact" alt="chitrak2000" /></p>
+
+
+## My Statistics
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=riochaks&theme=forest&font=Georgia)
+
+<br/>
+<p align="left">
+  <a href="https://sakalyamitra.me/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=chitrak2000&show_icons=true&theme=gruvbox&hide_border=true&&include_all_commits=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=chitrak2000&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+
+------
 
