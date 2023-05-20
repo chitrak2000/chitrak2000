@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/chitrak2016" target="blank"><img src="https://img.shields.io/twitter/follow/Chitrak?logo=twitter&style=for-the-badge" alt="chitraktweet" /></a> </p>
 
 
-<p><img align="right" src="https://github.com/chitrak2000/mlh-init/blob/master/animation_500_kxa883sd.gif" alt="chitrak2000" /></p>
+<p><img align="right" src="https://github.com/sakalya100/mlh-init/blob/master/animation_500_kxa883sd.gif" alt="chitrak2000" /></p>
 
 
 - 🌱 I’m currently learning **Data Analytics in Depth** and **App Development**
